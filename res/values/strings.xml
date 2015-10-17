@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyLearn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_languages">Languages</string>
+    <string name="action_subjects">Subjects</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_translations">translations</string>
+    <string name="title_activity_language">Language</string>
+    <string name="title_activity_subjects">Subjects</string>
+    <string name="title_activity_translation">Translation</string>
+    <string name="title_activity_english">English</string>
+    <string name="title_activity_alphabets">Alphabets</string>
+
+</resources>
